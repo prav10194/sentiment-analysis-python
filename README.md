@@ -35,3 +35,15 @@ Accuracy = 75.15974440894568%
 Enter sample text to determine sentiment: @VirginAmerica completely awesome experience last month BOS-LAS nonstop. Thanks for such an awesome flight and depart time. #VAbeatsJblue
 positive
 ```
+Steps to install nltk - 
+-------
+1. Extract the zip content
+2. Open cmd
+3. Run the following commands - 
+```cmd
+cd "folderpath where zip is extracted"
+python setup.py install
+```
+For nltk_data -
+-------
+1. Extract the contents in your python directory.
